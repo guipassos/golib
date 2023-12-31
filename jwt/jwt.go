@@ -5,7 +5,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/rhizomplatform/golib/entity"
+	"github.com/guipassos/golib/entity"
 )
 
 type (

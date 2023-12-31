@@ -1,8 +1,8 @@
 package example
 
 import (
-	"github.com/rhizomplatform/golib/kafka/consumer"
-	"github.com/rhizomplatform/golib/logger"
+	"github.com/guipassos/golib/kafka/consumer"
+	"github.com/guipassos/golib/logger"
 )
 
 const TopicExample = "EXAMPLE"

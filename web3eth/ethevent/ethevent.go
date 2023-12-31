@@ -8,7 +8,7 @@ import (
 
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/rhizomplatform/golib/web3eth/ethclient"
+	"github.com/guipassos/golib/web3eth/ethclient"
 )
 
 type (

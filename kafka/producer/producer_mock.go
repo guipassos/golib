@@ -8,7 +8,7 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	kafkamod "github.com/rhizomplatform/golib/kafka/kafkamod"
+	kafkamod "github.com/guipassos/golib/kafka/kafkamod"
 )
 
 // MockProducer is a mock of Producer interface.

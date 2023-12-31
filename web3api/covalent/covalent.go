@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/rhizomplatform/golib/httphelper"
+	"github.com/guipassos/golib/httphelper"
 )
 
 type (
