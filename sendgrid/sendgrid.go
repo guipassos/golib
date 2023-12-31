@@ -4,7 +4,7 @@ package sendgrid
 import (
 	"errors"
 
-	"github.com/rhizomplatform/golib/logger"
+	"github.com/guipassos/golib/logger"
 	"github.com/sendgrid/sendgrid-go"
 	"github.com/sendgrid/sendgrid-go/helpers/mail"
 )

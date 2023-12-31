@@ -3,7 +3,7 @@ package producer
 
 import (
 	"github.com/confluentinc/confluent-kafka-go/kafka"
-	"github.com/rhizomplatform/golib/kafka/kafkamod"
+	"github.com/guipassos/golib/kafka/kafkamod"
 )
 
 type (

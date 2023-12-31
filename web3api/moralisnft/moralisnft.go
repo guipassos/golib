@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/rhizomplatform/golib/logger"
+	"github.com/guipassos/golib/logger"
 )
 
 type (

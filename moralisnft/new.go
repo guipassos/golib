@@ -1,7 +1,7 @@
 //go:generate mockgen -source=${GOFILE} -package=${GOPACKAGE} -destination=${GOPACKAGE}_mock.go
 package moralisnft
 
-import "github.com/rhizomplatform/golib/logger"
+import "github.com/guipassos/golib/logger"
 
 type MoralisNFT interface {
 	GetList(addressWallet, addressNFT, chain, format, cursor string, limit int) ([]byte, error)

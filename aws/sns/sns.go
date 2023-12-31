@@ -3,7 +3,7 @@ package sns
 
 import (
 	"github.com/aws/aws-sdk-go/service/sns"
-	"github.com/rhizomplatform/golib/aws/session"
+	"github.com/guipassos/golib/aws/session"
 )
 
 type (

@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/rhizomplatform/golib/logger"
+	"github.com/guipassos/golib/logger"
 )
 
 var (

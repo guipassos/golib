@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/rhizomplatform/golib/httphelper"
-	"github.com/rhizomplatform/golib/logger"
+	"github.com/guipassos/golib/httphelper"
+	"github.com/guipassos/golib/logger"
 )
 
 const (

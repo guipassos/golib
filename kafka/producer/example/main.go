@@ -3,9 +3,9 @@ package example
 import (
 	"encoding/json"
 
-	"github.com/rhizomplatform/golib/kafka/kafkamod"
-	"github.com/rhizomplatform/golib/kafka/producer"
-	"github.com/rhizomplatform/golib/logger"
+	"github.com/guipassos/golib/kafka/kafkamod"
+	"github.com/guipassos/golib/kafka/producer"
+	"github.com/guipassos/golib/logger"
 )
 
 const TopicExample = "EXAMPLE"

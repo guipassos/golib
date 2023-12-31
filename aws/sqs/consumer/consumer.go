@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/aws/aws-sdk-go/service/sqs"
-	"github.com/rhizomplatform/golib/aws/session"
+	"github.com/guipassos/golib/aws/session"
 )
 
 type (

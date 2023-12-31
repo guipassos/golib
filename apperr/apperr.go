@@ -1,7 +1,7 @@
 package apperr
 
 import (
-	"github.com/rhizomplatform/golib/logger"
+	"github.com/guipassos/golib/logger"
 )
 
 func New(opt Options) *AppErr {
